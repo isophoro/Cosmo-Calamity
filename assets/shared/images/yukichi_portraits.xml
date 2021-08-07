@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yukichi_portraits.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yukichi_enraged enter0000" x="0" y="0" width="305" height="378"/>
+	<SubTexture name="yukichi_happy enter0000" x="305" y="0" width="305" height="378"/>
+	<SubTexture name="yukichi_neutral enter0000" x="610" y="0" width="305" height="378"/>
+	<SubTexture name="yukichi_peeved enter0000" x="915" y="0" width="305" height="378"/>
+	<SubTexture name="yukichi_talking enter0000" x="1220" y="0" width="305" height="378"/>
+	<SubTexture name="yukichi_talking2 enter0000" x="1525" y="0" width="305" height="378"/>
+	<SubTexture name="yukichi_very_enraged enter0000" x="0" y="378" width="305" height="378"/>
+	<SubTexture name="yukichi_very_peeved enter0000" x="305" y="378" width="305" height="378"/>
+</TextureAtlas>

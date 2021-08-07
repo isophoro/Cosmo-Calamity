@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriend_portraits.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boyfriend_determined enter0000" x="0" y="0" width="303" height="314"/>
+	<SubTexture name="boyfriend_guilt enter0000" x="303" y="0" width="303" height="315"/>
+	<SubTexture name="boyfriend_hype enter0000" x="606" y="0" width="303" height="315"/>
+	<SubTexture name="boyfriend_neutral enter0000" x="0" y="315" width="303" height="315"/>
+	<SubTexture name="boyfriend_pensive enter0000" x="303" y="315" width="303" height="314"/>
+	<SubTexture name="boyfriend_question enter0000" x="606" y="315" width="303" height="314"/>
+</TextureAtlas>

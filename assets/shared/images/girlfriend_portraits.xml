@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriend_portraits.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="girlfriend_confused enter0000" x="0" y="0" width="277" height="367"/>
+	<SubTexture name="girlfriend_guilt enter0000" x="277" y="0" width="277" height="367"/>
+	<SubTexture name="girlfriend_nervous_smile enter0000" x="554" y="0" width="277" height="367"/>
+	<SubTexture name="girlfriend_neutral enter0000" x="0" y="367" width="277" height="367"/>
+	<SubTexture name="girlfriend_pensive enter0000" x="277" y="367" width="277" height="367"/>
+	<SubTexture name="girlfriend_talking enter0000" x="554" y="367" width="277" height="367"/>
+</TextureAtlas>

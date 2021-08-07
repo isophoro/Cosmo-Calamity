@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yukichi_Entrance_Cutscene.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yukichi waving0000" x="0" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0001" x="0" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0002" x="0" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0003" x="0" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0004" x="645" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0005" x="1290" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0006" x="1935" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0007" x="2580" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0008" x="3225" y="0" width="645" height="713"/>
+	<SubTexture name="yukichi waving0009" x="0" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0010" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0011" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0012" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0013" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0014" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0015" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0016" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0017" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0018" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0019" x="645" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0020" x="1290" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0021" x="1935" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0022" x="2580" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0023" x="3225" y="713" width="645" height="713"/>
+	<SubTexture name="yukichi waving0024" x="0" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0025" x="645" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0026" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0027" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0028" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0029" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0030" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0031" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0032" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0033" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0034" x="1290" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0035" x="1935" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0036" x="1935" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0037" x="2580" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0038" x="2580" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0039" x="3225" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0040" x="3225" y="1426" width="645" height="713"/>
+	<SubTexture name="yukichi waving0041" x="0" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0042" x="0" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0043" x="645" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0044" x="1290" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0045" x="1290" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0046" x="1935" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0047" x="1935" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0048" x="2580" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0049" x="2580" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0050" x="3225" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0051" x="3225" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0052" x="1290" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0053" x="1290" y="2139" width="645" height="713"/>
+	<SubTexture name="yukichi waving0054" x="0" y="2852" width="645" height="713"/>
+	<SubTexture name="yukichi waving0055" x="0" y="2852" width="645" height="713"/>
+	<SubTexture name="yukichi waving0056" x="645" y="2852" width="645" height="713"/>
+	<SubTexture name="yukichi waving0057" x="645" y="2852" width="645" height="713"/>
+	<SubTexture name="yukichi waving0058" x="645" y="2852" width="645" height="713"/>
+</TextureAtlas>

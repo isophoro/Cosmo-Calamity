@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background sprite resized.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg movement0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0001" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0002" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0003" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0004" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0005" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0006" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0007" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="bg movement0008" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="bg movement0009" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="bg movement0010" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="bg movement0011" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="bg movement0012" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="bg movement0013" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="bg movement0014" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0015" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0016" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0017" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0018" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0019" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0020" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0021" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="bg movement0022" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="bg movement0023" x="1920" y="3240" width="1920" height="1080"/>
+	<SubTexture name="bg movement0024" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="bg movement0025" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="bg movement0026" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="bg movement0027" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="bg movement0028" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="bg movement0029" x="0" y="0" width="1920" height="1080"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunsetroad.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="roadbg0000" x="0" y="0" width="1921" height="1133" frameX="0" frameY="-143" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0001" x="1921" y="0" width="1921" height="1152" frameX="0" frameY="-143" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0002" x="3842" y="0" width="1921" height="1167" frameX="0" frameY="-141" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0003" x="5763" y="0" width="1921" height="1195" frameX="0" frameY="-127" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0004" x="0" y="1195" width="1921" height="1226" frameX="0" frameY="-112" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0005" x="1921" y="1195" width="1921" height="1251" frameX="0" frameY="-99" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0006" x="3842" y="1195" width="1921" height="1281" frameX="0" frameY="-84" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0007" x="5763" y="1195" width="1921" height="1308" frameX="0" frameY="-71" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0008" x="0" y="2503" width="1921" height="1337" frameX="0" frameY="-56" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0009" x="1921" y="2503" width="1921" height="1365" frameX="0" frameY="-42" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0010" x="3842" y="2503" width="1921" height="1392" frameX="0" frameY="-29" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0011" x="5763" y="2503" width="1921" height="1423" frameX="0" frameY="-13" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0012" x="0" y="3926" width="1921" height="1449"/>
+	<SubTexture name="roadbg0013" x="1921" y="3926" width="1921" height="1419" frameX="0" frameY="-15" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0014" x="3842" y="3926" width="1921" height="1387" frameX="0" frameY="-31" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0015" x="5763" y="3926" width="1921" height="1359" frameX="0" frameY="-45" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0016" x="0" y="5375" width="1921" height="1327" frameX="0" frameY="-61" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0017" x="1921" y="5375" width="1921" height="1295" frameX="0" frameY="-77" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0018" x="3842" y="5375" width="1921" height="1264" frameX="0" frameY="-93" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0019" x="5763" y="5375" width="1921" height="1233" frameX="0" frameY="-108" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0020" x="0" y="6702" width="1921" height="1205" frameX="0" frameY="-122" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0021" x="1921" y="6702" width="1921" height="1173" frameX="0" frameY="-138" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0022" x="3842" y="6702" width="1921" height="1152" frameX="0" frameY="-143" frameWidth="1921" frameHeight="1449"/>
+	<SubTexture name="roadbg0023" x="5763" y="6702" width="1921" height="1133" frameX="0" frameY="-143" frameWidth="1921" frameHeight="1449"/>
+</TextureAtlas>
